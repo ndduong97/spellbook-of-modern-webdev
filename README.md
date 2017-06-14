@@ -509,6 +509,7 @@ A Subset for __Architecture and Infrastructure__
     * [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
   * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/)
   * Nicholas C. Zakas's [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
+  * [List of companies using Javascript](https://siftery.com/javascript)
 * Re-intro to JS
   * Articles
     * MDN
